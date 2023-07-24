@@ -20,4 +20,8 @@ Unity Code:
 4) To run the program, download the unity package provided, import the package in Unity, check for any dependency issue. 
 5) In the WebsocketClient.cs file, IP address has to be changed based on the IP address the board is choosing 
 6) Load one of the two given scenes(Maze_IMU, Fluid_IMU). Have the ESP32 on and ready, click play in Unity and BOOM there you go!!!!! 
-7) For VR setup, machine should have Oculus app installed and Quest 2 has to be connected via Oculus link and played. 
+7) For VR setup, machine should have Oculus app installed and Quest 2 has to be connected via Oculus link and played.
+
+### Output:
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
