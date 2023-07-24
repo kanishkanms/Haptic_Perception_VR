@@ -24,4 +24,4 @@ Unity Code:
 
 ### Output:
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/i0hpC0Y8F1Q)
+[![Watch the video](Setup.jpeg)](https://youtu.be/i0hpC0Y8F1Q)
