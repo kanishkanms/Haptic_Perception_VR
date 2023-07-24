@@ -25,3 +25,5 @@ Unity Code:
 ### Output:
 
 [![Watch the video](/Setup.jpeg)](https://youtu.be/i0hpC0Y8F1Q)
+
+<a href="https://youtu.be/i0hpC0Y8F1Q"><img src="Setup.jpeg" alt="Output" width="400"><a/>
